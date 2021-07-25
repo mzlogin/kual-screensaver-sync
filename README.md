@@ -1,6 +1,6 @@
 # kual-screensaver-sync
 
-依赖于 KUAL 的 Kindle 插件，用于从 GitHub 同步屏保图片。
+依赖于 KUAL 的 Kindle 插件，用于从 GitHub 同步屏保图片给 ScreenSavers Hack 插件。
 
 同步逻辑：
 
@@ -12,7 +12,7 @@
 
 ## 安装方法
 
-该插件依赖于 KUAL 和 Python3，请确保之前已经正确安装它们。
+该插件依赖于 KUAL 和 Python3，请确保以前已经正确安装它们。本插件同步下来的屏保图片用于 ScreenSavers Hack 插件，所以也必须安装该插件，同步下来的屏保图片才能起作用。
 
 本插件安装方法：
 
