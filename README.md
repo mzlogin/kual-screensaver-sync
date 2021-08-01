@@ -8,7 +8,19 @@
 2. 下载远程有，本地没有的屏保；
 3. 如果一张屏保本地和远程的 md5 值不一样，本地文件将被远程文件覆盖。
 
-**注意：** 目前远程屏保是固定从 <https://github.com/mzlogin/kindle-paperwhite-screensavers> 拉取的，地址写死在代码里面。
+**注意：** 目前远程屏保是固定从 <https://github.com/mzlogin/kindle-paperwhite-screensavers> 的 built 分支拉取的，地址写死在代码里面。
+
+若需要使用其它地址，服务器上需要有以下文件结构：
+
+```
+├── meta.json
+└── screensavers
+    ├── bg_ss00.png
+    ├── bg_ss01.png
+    ├── bg_ss02.png
+```
+
+meta.json 文件里记录 screensavers 里每个 png 文件的最新 md5 值。
 
 ## 安装方法
 

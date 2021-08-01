@@ -2,7 +2,7 @@ import requests
 import os
 import hashlib
 
-base_url = 'https://cdn.jsdelivr.net/gh/mzlogin/kindle-paperwhite-screensavers@main/'
+base_url = 'https://cdn.jsdelivr.net/gh/mzlogin/kindle-paperwhite-screensavers@built/'
 screensaver_path = '/mnt/us/linkss/screensavers/'
 log_row_begin = 10
 log_row_end = 30
