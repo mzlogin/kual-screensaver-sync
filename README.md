@@ -40,9 +40,13 @@ meta.json 文件里记录 screensavers 里每个 png 文件的最新 md5 值。
 
 3. 点击「Start Sync」可以开始同步。
 
+## 运行截图
+
+![](./assets/screenshot.png)
+
 ## 适用机型
 
-当前只在 Kindle PaperWhite 一代上运行过，其它机型未验证。
+当前只在 Kindle PaperWhite 一代上运行过，其它机型未验证，理论上都兼容。
 
 - Kindle PaperWhite
 
