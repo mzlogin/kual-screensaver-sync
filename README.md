@@ -46,9 +46,10 @@ meta.json 文件里记录 screensavers 里每个 png 文件的最新 md5 值。
 
 ## 适用机型
 
-当前只在 Kindle PaperWhite 一代上运行过，其它机型未验证，理论上都兼容。
+当前只在 Kindle PaperWhite 一代、三代上运行过，其它机型未验证，理论上都兼容。
 
 - Kindle PaperWhite
+- Kindle PaperWhite 3
 
 ## License
 
